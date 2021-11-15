@@ -11,7 +11,6 @@ for j in range(1,len(a)):
         i = i - 1
     a[i + 1] = key
 print(a)
-ZADV    DD D 
 """" 
 In the Insertion Sort is like arranging the playing cards in a sorted order:
 1) Time complexity of insertion sort is : No. of Comparisons + No. of Movemnets Shift 
